@@ -7,6 +7,7 @@ source .venv/bin/activate
 ### Instalar as dependencias
 ```bash
 python -m pip install --upgrade pip
+pip install -r requirements.txt
 ```
 
 ### Adicionar as dependencias no requirments
